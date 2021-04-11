@@ -8,7 +8,6 @@ import Ballon from "../images/ballon.svg"
 
 
 export default function Home() {
-    document.title = "CapacityBay | Welcome"
   return <section className="future">
       <div className="container">
           <div className="row">

@@ -1,2 +1,2 @@
 
-https://github.com/Emmzy-Tech/capacitybay-gatsby
+ https://emmzy-tech.github.io/capacitybay-gatsby/
